@@ -10,10 +10,10 @@ https://github.com/CuriousSquid/Resources.git
 Considering Kenny assets are online, free and open source we thought it would be a nice addition to the project. It also brings
 the whole project together by making the assets uniform, adding a degree of professionalism.
 
-Kenny Site: http://kenney.nl/
+#### [Kenny Site](http://kenney.nl/)
+* UI: http://kenney.nl/assets/ui-pack
+* UI Pixel: http://kenney.nl/assets/pixel-ui-pack
+* GameIcons: http://kenney.nl/assets/game-icons
+* GameIcons(expanded): http://kenney.nl/assets/game-icons-expansion
+* Onscreen Controls: http://kenney.nl/assets/onscreen-controls
 
-UI: http://kenney.nl/assets/ui-pack
-UI Pixel: http://kenney.nl/assets/pixel-ui-pack
-GameIcons: http://kenney.nl/assets/game-icons
-GameIcons(expanded): http://kenney.nl/assets/game-icons-expansion
-Onscreen Controls: http://kenney.nl/assets/onscreen-controls
